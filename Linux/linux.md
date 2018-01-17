@@ -39,3 +39,11 @@ https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
 
 `touch abc.txt`
 
+Delete all files with the extension
+
+`find . -name "*.bak" -type f -delete`
+ 
+ OR
+
+ `find . -name "*.bak" -type f`
+
