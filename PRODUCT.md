@@ -41,3 +41,8 @@ http://growthhackingidea.com/se_public.php?authorization_id=X3Xd4mRNYxEJtOPSAD9N
 
 https://emailmonster.io/?ref=producthunt
 
+## Promote Product
+
+https://medium.com/@order_group/where-to-promote-your-blog-most-popular-content-aggregators-for-designers-and-copywriters-d63994b0a408
+
+
