@@ -47,3 +47,8 @@ Delete all files with the extension
 
  `find . -name "*.bak" -type f`
 
+
+ ## Sha-bang
+
+ https://en.wikipedia.org/wiki/Shebang_(Unix)
+
