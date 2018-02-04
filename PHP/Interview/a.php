@@ -1,5 +1,5 @@
 <?php
 // a.php
-$val*=$val;
+$val *= $val;
 ?>
 
