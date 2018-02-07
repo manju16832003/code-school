@@ -4,8 +4,7 @@ class FileOwners
     public static function groupByOwners($files)
     {
         $owners = [];
-        $files = [];
-        foreach($files as $k => $v) {
+        foreach($files as $file => $owner) {
             $owners[$owner][] = $file;
         }
 
@@ -19,7 +18,7 @@ $files = array
     "Code.py" => "Stan",
     "Output.txt" => "Randy"
 );
-var_dump(FileOwners::groupByOwners($files));
+print_r(FileOwners::groupByOwners($files));
 
 // output should be
 // [
