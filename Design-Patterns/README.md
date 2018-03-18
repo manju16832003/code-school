@@ -7,6 +7,10 @@
 
 [Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern)
 
+Inheritence
+
+Interface
+
 
 ## Resources
 
