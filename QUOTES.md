@@ -15,3 +15,6 @@ Capacity to learn is a gift
 Ability to learn is a skill
 
 Willingness to learn is a choice
+
+
+A calm and modest life brings more happiness than the constant pursuit of success combined with constant restlessness - Albert Einstein
