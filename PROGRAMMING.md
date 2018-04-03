@@ -15,7 +15,9 @@ https://www.languagehealth.com/#Go,Java,Ruby,Elixir,PHP
 
 https://www.rust-lang.org/en-US/documentation.html
 
+### Code Philosophy
 
+https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 
 
 
