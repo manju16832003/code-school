@@ -22,3 +22,7 @@ A calm and modest life brings more happiness than the constant pursuit of succes
 Resentment is like drinking poison and expecting the other person to die - Buddha
 
 Forgive, move on and let go and realise that Internal healing is what lets us take care of the external circumstances. 
+
+
+“Most people do not listen with the intent to understand; they listen with the intent to reply.”
+- Steven R. Covey
