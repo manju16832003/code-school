@@ -10,4 +10,7 @@ https://medium.com/the-mission/why-most-people-will-never-be-successful-632bb24f
 
 https://ideapod.com/psychologist-explains-best-way-change-thinking-negative-positive
 
+https://blog.knowyourcompany.com/hate-delivering-negative-feedback-at-work-19-phrases-to-help-make-giving-difficult-feedback-easier-cbd2635cdd56
+
+
 
