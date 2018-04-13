@@ -26,3 +26,6 @@ Forgive, move on and let go and realise that Internal healing is what lets us ta
 
 “Most people do not listen with the intent to understand; they listen with the intent to reply.”
 - Steven R. Covey
+
+
+"I now take a longer term view on people. In other words, when I see something not being done right, my first reaction isn’t to go fix it. It’s to say, we’re building a team here. And we’re going to do great stuff for the next decade, not just for the next year, and so what do I need to do to help so the person that’s screwing up learns versus how do I fix the problem." - Steve Jobs
