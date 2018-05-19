@@ -11,6 +11,11 @@ Whose primary purpose is to generate build artifacts through activities like com
 These are general web based tools that execute build automation utilities on a scheduled or triggered basis; a continuous integration server is a type of build automation server.
 
 
+##  HTTP HSTS 
+
+https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
+
+## TLS vs SSL
 
 # Reference
 
