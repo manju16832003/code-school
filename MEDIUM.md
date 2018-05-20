@@ -1,5 +1,10 @@
 # Medium
 
+# Medium Tech Blogs
+
+https://medium.com/@addyosmani
+
+
 ### Personal Growth
 
 https://medium.com/personal-growth/five-simple-techniques-that-will-make-you-more-creative-979331f1faa3

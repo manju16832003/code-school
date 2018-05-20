@@ -1,3 +1,0 @@
-# Domains
-
-https://flamedomain.com/
