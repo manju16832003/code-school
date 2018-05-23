@@ -7,6 +7,8 @@
 
 [Decorator Pattern](https://en.wikipedia.org/wiki/Decorator_pattern)
 
+[Prototype-based programming](https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming)
+
 Inheritence
 
 Interface
