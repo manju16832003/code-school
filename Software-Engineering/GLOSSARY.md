@@ -15,11 +15,13 @@ These are general web based tools that execute build automation utilities on a s
 
 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 
-## TLS vs SSL
+- TLS vs SSL
+
+
 
 - ASCII - American Standard Code for Information Interchange
 - UTF . - Unicode Transformation Format
-
+- REST  - *Re*presentational *S*tate *T*ransfer
 # Reference
 
 http://www.shellmethod.com/refs/seglossary.pdf
