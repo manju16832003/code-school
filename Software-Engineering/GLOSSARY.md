@@ -17,6 +17,10 @@ https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 
 ## TLS vs SSL
 
+- ASCII - American Standard Code for Information Interchange
+- UTF . - Unicode Transformation Format
+
 # Reference
 
 http://www.shellmethod.com/refs/seglossary.pdf
+
