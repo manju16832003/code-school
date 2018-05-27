@@ -7,3 +7,6 @@ https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124
 [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
 
+# In List To Buy
+
+The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine
