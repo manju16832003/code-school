@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 - ASCII - American Standard Code for Information Interchange
 - UTF . - Unicode Transformation Format
 - REST  - *Re*presentational *S*tate *T*ransfer
+- OSI - Open Systems Interconnection model (OSI)
 # Reference
 
 http://www.shellmethod.com/refs/seglossary.pdf
