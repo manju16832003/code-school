@@ -6,3 +6,8 @@ Notes
 
 
 https://devdocs.io/
+
+https://dev.to/
+
+https://devhints.io/
+
