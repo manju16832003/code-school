@@ -18,11 +18,16 @@ https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 - TLS vs SSL
 
 
-
 - ASCII - American Standard Code for Information Interchange
 - UTF . - Unicode Transformation Format
 - REST  - *Re*presentational *S*tate *T*ransfer
 - OSI - Open Systems Interconnection model (OSI)
+- MIME - Multipurpose Internet Mail Extensions
+- IETF - Internet Engineering Task Force
+- IEEE - Institute of Electrical and Electronics Engineers
+- Simple Mail Transfer Protocol
+- IANA - Internet Assigned Numbers Authority
+
 # Reference
 
 http://www.shellmethod.com/refs/seglossary.pdf
