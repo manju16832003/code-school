@@ -8,8 +8,7 @@ https://github.com/trending
 
 https://github.com/mr-mig/every-programmer-should-know
 
-
-
+http://icodedis.tool.cards/#/
 
 ### Moving recent commits to a new branch
 Assume that we accidently commited codes directly to master branch but later you would like to undo the commits and move out to a new branch
