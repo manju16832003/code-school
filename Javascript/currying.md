@@ -1,2 +1,0 @@
-# Currying in JavaScript
-
