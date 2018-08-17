@@ -1,6 +1,6 @@
 # Microservices Best Practices
 
-- Mode Services based on Domain-driven Design (DDD)
+- Most Services based on Domain-driven Design (DDD)
 - Consider separating data storage
 - Build separate teams for different Microservices
 - Design domain-driven APIs

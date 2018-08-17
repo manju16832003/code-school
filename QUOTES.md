@@ -9,13 +9,15 @@
 `
 Reference: https://hbr.org/2015/05/making-sense-of-zappos-war-on-managers
 
-
+```
 Capacity to learn is a gift
-
 Ability to learn is a skill
-
 Willingness to learn is a choice
+```
 
+```
+“If you’re not prepared to be wrong, you’ll never come up with anything original.” — Sir Ken Robinson
+```
 
 A calm and modest life brings more happiness than the constant pursuit of success combined with constant restlessness - Albert Einstein
 

@@ -27,6 +27,7 @@ https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 - IEEE - Institute of Electrical and Electronics Engineers
 - Simple Mail Transfer Protocol
 - IANA - Internet Assigned Numbers Authority
+- CQRS - Command Query Responsibility Segregation
 
 # Reference
 
