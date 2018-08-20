@@ -1,4 +1,4 @@
-# Design Inspirations
+# Design Resources and Inspirations
 
 https://lawsofux.com/
 
