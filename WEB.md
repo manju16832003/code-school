@@ -4,7 +4,7 @@ Basic Web Architecture
 
 <img src="https://github.com/manjufy/code-school/blob/master/1_K6M-x-6e39jMq_c-2xqZIQ.png">
 
-[Source]
+Source: https://github.com/manjufy/code-school/blob/master/1_K6M-x-6e39jMq_c-2xqZIQ.png
 
 ## Basics
 
