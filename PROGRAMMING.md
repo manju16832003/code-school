@@ -19,5 +19,26 @@ https://www.rust-lang.org/en-US/documentation.html
 
 https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 
+### Resources to improve coding skills
 
+https://coderbyte.com/
 
+https://leetcode.com/
+
+https://www.codewars.com/
+
+https://www.codility.com/
+
+https://www.topcoder.com/
+
+https://projecteuler.net/
+
+https://www.hackerrank.com
+
+https://www.codechef.com/
+
+https://www.hirevue.com/
+
+https://www.spoj.com/
+
+https://www.codingame.com/start
