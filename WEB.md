@@ -20,4 +20,6 @@ https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 https://developers.google.com/web/
 
+Web Updates -> https://developers.google.com/web/updates/2018/08/wasm-av1
+
 
