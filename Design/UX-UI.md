@@ -1,4 +1,10 @@
-# Design Inspirations
+# Design Resources and Inspirations
+
+https://lawsofux.com/
+
+https://storytelling.design/
+
+https://www.enterpriseirregulars.com/125085/what-is-design-thinking/
 
 https://medium.freecodecamp.org/the-anatomy-of-a-bootstrap-dashboard-that-earns-1-000s-each-month-ed3404010d25
 

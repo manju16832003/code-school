@@ -1,5 +1,7 @@
 # Startup
 
+https://www.enterpriseirregulars.com/
+
 http://startupmate.flammate.com/
 
 https://foundersbelt.com/timeline
