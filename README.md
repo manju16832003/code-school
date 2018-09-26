@@ -1,6 +1,5 @@
-# Tech Notes
 
-Notes
+## Important Notes
 
 [Github Explore/Trending](https://github.com/explore)
 
