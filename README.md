@@ -1,8 +1,11 @@
 
-## Important Notes
+## Important Resources
 
 [Github Explore/Trending](https://github.com/explore)
 
+[Reddit JavaScript](https://www.reddit.com/r/javascript/)
+
+[Reddit Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 https://devdocs.io/
 
