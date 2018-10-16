@@ -13,3 +13,5 @@ https://microservices.io/index.html
 https://microservices.io/patterns/data/database-per-service.html
 
 https://www.infoq.com/news/2017/06/managing-data-in-microservices
+
+https://www.martinfowler.com/articles/microservices.html
