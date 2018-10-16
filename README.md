@@ -11,6 +11,8 @@ https://devdocs.io/
 
 https://dev.to/
 
+http://changelog.com/
+
 https://devhints.io/
 
 [Application Architecture](https://www.martinfowler.com/tags/application%20architecture.html)
