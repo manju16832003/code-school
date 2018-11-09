@@ -9,3 +9,5 @@ https://hbr.org/2017/12/how-to-control-your-emotions-during-a-difficult-conversa
 
 
 [Difference between Marketing, Advertising and Brandking](https://www.inc.com/peter-gasca/a-simple-analogy-to-explain-difference-between-marketing-advertising-branding.html)
+
+https://medium.com/thrive-global/how-to-develop-the-courage-to-be-authentic-83ea2abfac31
